@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=remakehypixel" alt="remakehypixel" /></a> </p>
 
-- 🔭 I’m currently working on [Funpixel](https://github.com/FunpixelDev)
+- 🔭 I’m currently working on **Learning new things**
 
 - 🌱 I’m currently learning **Frontend development**
 
@@ -19,11 +19,11 @@
 
 - 💬 Ask me about **HTML , CSS**
 
-- 📫 How to reach me **arhamredmi@gmail.com**
+- 📫 How to reach me **arhamisdev@gmail.com**
 
 - 📄 Know about my experiences [SOON](SOON)
 
-- ⚡ Fun fact **If minecraft world is infinite , how sun revolves around it**
+- ⚡ Fun fact **Teenagers drive like they have limited time but old people drive like they have all the time**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
