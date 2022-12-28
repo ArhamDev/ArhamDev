@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Frontend development**
 
-- 👯 I’m looking to collaborate on **IDE , HOST , Websites , Applications**
+- 👯 I’m looking to collaborate on **IDE , HOST , Websites , Applications Basically Everything**
 
 - 🤝 I’m looking for help with **FRONTEND DEVELOPMENT**
 
